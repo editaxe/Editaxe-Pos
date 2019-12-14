@@ -1,0 +1,15 @@
+http://blog.greensoft.es/net-use-para-la-captura-y-redireccion-de-impresiones-directas-a-puerto-en-sistemas-windows-2/#.XOcZE9h7ncs
+https://nksistemas.com/como-imprimir-desde-el-puerto-lpt1-de-dos-a-uno-usb/
+https://www.taringa.net/+info/imprimir-en-red-desde-un-programa-ms-dos-en-windows-7_12prw3
+https://social.technet.microsoft.com/Forums/es-ES/bc4a2345-92da-4ecd-b249-93d06c4a6c2b/imprimir-por-puerto-lpt1-desde-terminal-en-una-aplicacion?forum=windowsserveres
+https://hackxcrack.net/foro/hacking/error-de-sistema-53/
+https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/mike42/escpos-php/issues/65&xid=17259,1500004,15700021,15700186,15700191,15700256,15700259&usg=ALkJrhjzH-MEACOgp4v8uN65-wU6OE6Qiw
+https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/mike42/escpos-php/blob/master/example/interface/smb.php&xid=17259,1500004,15700021,15700186,15700191,15700256,15700259&usg=ALkJrhglf5VsLAjdxa1Sg0oJ10e5fYqKDQ
+https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://community.spiceworks.com/topic/102569-acces-denied-when-creating-local-port&xid=17259,1500004,15700021,15700186,15700191,15700256,15700259&usg=ALkJrhgvDRyS4PgwUwmgD5o_1YsdplmH1Q
+https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/mike42/escpos-php/issues/67&xid=17259,1500004,15700021,15700186,15700191,15700256,15700259&usg=ALkJrhjayNZ9HQIlotocuVoQ_8xBcNOvkw
+https://github.com/mike42/escpos-php/blob/master/example/interface/smb.php
+https://github.com/mike42/escpos-php/blob/master/example/interface/windows-usb.php
+https://github.com/mike42/escpos-php/issues/67
+
+
+

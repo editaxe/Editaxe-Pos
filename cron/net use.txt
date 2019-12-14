@@ -1,0 +1,14 @@
+C:\>NET USE LPT1: \\DELL-PC\THERMAL Receipt #1 /user:USUARIO-PC\USUARIO 1410/PERSISTENT:YES
+
+NET USE LPT1: \\hawanito\impresora /persistent:yes /USER:Administrador clave
+
+
+net view nombre_equipo
+
+net use LPT1: /delete
+
+
+
+https://yout.com/video/LX9Zh_5yvI4/
+https://yout.com/video/a1oDuHZUcKY/
+https://www.youtube.com/watch?v=vxkbq2Y1lQM

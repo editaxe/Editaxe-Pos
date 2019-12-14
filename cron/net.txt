@@ -1,0 +1,7 @@
+net use "\\DELL-PC\THERMA" /user:USUARIO
+
+
+net use \\USUARIO-PC\THERMA /user:USUARIO
+
+
+net use \\USUARIO-PC\THERMA /user:WORKGROUP\USUARIO

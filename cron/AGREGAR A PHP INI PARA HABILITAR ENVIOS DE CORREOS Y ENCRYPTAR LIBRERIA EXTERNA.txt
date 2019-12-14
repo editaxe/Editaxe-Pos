@@ -1,0 +1,11 @@
+extension=php_xmlrpc.dll
+;-------PARA ENVIAR CORREOS Y HABILITAR CRYP------
+extension=php_openssl.dll
+;-------------------------------------------------
+C:\xampp\php
+
+
+extension=php_gettext.dll
+;-------PARA IMPRIMIR DIRECTAMENTE POR MEDIO DE DLL------
+extension=php_printer.dll
+;--------------------------------------------------------
